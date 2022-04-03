@@ -2,6 +2,8 @@
 
 ***[Hibernate Tutorial](https://www.tutorialspoint.com/hibernate/index.htm)***
 
+***[Hibernate Tutorial](https://www.javatpoint.com/hibernate-tutorial)***
+
 ***[Hibernate example](https://www.codejava.net/frameworks/hibernate/how-to-make-hibernate-work-with-oracle-database)***
 
 ***[Oracle Maven Dependency](https://mvnrepository.com/artifact/com.oracle.database.jdbc/ojdbc8/21.5.0.0)***
