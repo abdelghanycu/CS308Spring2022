@@ -9,10 +9,15 @@
     <property name="connection.username">system</property>
     <property name="connection.password">system</property>
     <property name="dialect">org.hibernate.dialect.Oracle8iDialect</property>
+    <property name="enable_lazy_load_no_trans">true</property>
 
     <property name="show_sql">true</property>
 
     <mapping class="com.sci.models.Employee"/>
+    <mapping class="com.sci.models.Actor"/>
+    <mapping class="com.sci.models.Address"/>
+    <mapping class="com.sci.models.City"/>
+    <mapping class="com.sci.models.Movie"/>
     <!--    <mapping class="package.ModelClassName" />-->
 
   </session-factory>
