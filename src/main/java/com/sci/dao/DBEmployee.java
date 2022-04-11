@@ -2,7 +2,6 @@ package com.sci.dao;
 
 import com.sci.models.Employee;
 import java.util.List;
-import javax.persistence.criteria.CriteriaBuilder.In;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 

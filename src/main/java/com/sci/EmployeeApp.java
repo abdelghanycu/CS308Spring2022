@@ -11,11 +11,11 @@ public class EmployeeApp {
   public static void main(String[] args) {
     DBEmployee dbEmployee = new DBEmployee();
 
-//    List<Employee> employeeList = dbEmployee.get();
-//
-//    for(Employee e : employeeList) {
-//      System.out.println(e);
-//    }
+    List<Employee> employeeList = dbEmployee.get();
+
+    for(Employee e : employeeList) {
+      System.out.println(e);
+    }
 
 //    System.out.println(dbEmployee.get(100));
 
@@ -37,7 +37,7 @@ public class EmployeeApp {
 //    dbEmployee.update(employee);
 
 
-    dbEmployee.delete(231);
+//    dbEmployee.delete(231);
 
 
 
