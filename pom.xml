@@ -33,6 +33,19 @@
       <version>5.6.7.Final</version>
     </dependency>
 
+    <dependency>
+      <groupId>net.sf.ehcache</groupId>
+      <artifactId>ehcache</artifactId>
+      <version>2.10.9.2</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.hibernate</groupId>
+      <artifactId>hibernate-ehcache</artifactId>
+      <version>5.6.8.Final</version>
+    </dependency>
+
+
   </dependencies>
 
 </project>
