@@ -101,4 +101,8 @@ public class EmployeeApp {
     DBConfig.shutdown();
 
   }
+
+  public static void print() {
+    System.out.println("Hello");
+  }
 }
