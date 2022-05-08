@@ -9,6 +9,8 @@ import org.hibernate.Session;
 
 public class DBCinema {
 
+  // new line
+
   public List<Address> getAddresses() {
 
     try (Session session = DBConfig.SESSION_FACTORY.openSession()) {
